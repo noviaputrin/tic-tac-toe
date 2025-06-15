@@ -24,7 +24,7 @@ The game board is represented as a 3x3 list of lists, where each cell is either:
 
 ## 📋 Specification
 
-You are required to implement the following functions in tictactoe.py:
+The core gameplay and AI logic are implemented in ```tictactoe.py```, including the following functions:
 
 🔁 **```player(board)```**
 Returns whose turn it is — X or O.
